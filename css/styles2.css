@@ -276,8 +276,7 @@ nav ul li.parent ul.child li a {
   box-shadow: 0px 6px 6px -6px grey;
   margin-bottom: 10px;
   opacity: .95;
-  z-index: 5;
-  margin: auto;
+  z-index: 15;
 }
 
 .box .img {
